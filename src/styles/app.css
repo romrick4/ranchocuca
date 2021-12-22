@@ -546,7 +546,7 @@ h6 {
 .post-full-content {
     max-width: 720px;
     margin: 0 auto;
-    background: #fff;
+    background: #ebebeb;
 }
 
 .post-feature-image img {
@@ -766,6 +766,7 @@ h6 {
 
 .site-main {
     padding: 4vw 0;
+    background-color: #ebebeb;
 }
 
 /* Index
