@@ -1,10 +1,10 @@
 {
   "development": {
     "apiUrl": "https://rancho-cuca.ghost.io",
-    "contentApiKey": "42bc5d00c4ec926d3518fdd8fc"
+    "contentApiKey": "d42787c8973dcf8f729ed9e804"
   },
   "production": {
     "apiUrl": "https://rancho-cuca.ghost.io",
-    "contentApiKey": "42bc5d00c4ec926d3518fdd8fc"
+    "contentApiKey": "d42787c8973dcf8f729ed9e804"
   }
 }
